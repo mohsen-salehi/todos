@@ -1,16 +1,3 @@
 {
-  "todos": [
-    {
-      "userId": 4,
-      "id": 4,
-      "title": "hello4",
-      "completed": true
-    },
-    {
-      "userId": 5,
-      "id": 5,
-      "title": "hello5",
-      "completed": true
-    }
-  ]
+  "todos": []
 }

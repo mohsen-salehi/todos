@@ -72,7 +72,7 @@ function TodoList() {
   else if (isError) return (content = "Error...");
   else content = todos;
   return (
-    <main className='w-full rounded-lg shadow-inner  h-screen overflow-auto flex flex-wrap justify-center content-between p-2'>
+    <main className='w-full rounded-lg shadow-inner  h-screen overflow-auto flex flex-wrap justify-center content-start p-2'>
       <h1 className='w-full shadow-inner rounded-lg text-7xl text-center'>
         Todo List{" "}
       </h1>
